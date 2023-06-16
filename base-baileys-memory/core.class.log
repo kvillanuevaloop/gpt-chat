@@ -1,0 +1,95 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '59898613589@s.whatsapp.net',
+    fromMe: false,
+    id: '398D23577D9907FD37D3D66D49416D97',
+    participant: undefined
+  },
+  messageTimestamp: 1685725820,
+  pushName: 'kari 😋',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '59898613589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59898613589@s.whatsapp.net',
+    fromMe: false,
+    id: 'AABC83CD035490021198F19FF42F5C26',
+    participant: undefined
+  },
+  messageTimestamp: 1685725829,
+  pushName: 'kari 😋',
+  message: Message {
+    conversation: 'Muy bien y vos?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muy bien y vos?',
+  from: '59898613589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59898613589@s.whatsapp.net',
+    fromMe: false,
+    id: '30011A3147CECEC5F544F1201A422052',
+    participant: undefined
+  },
+  messageTimestamp: 1685725841,
+  pushName: 'kari 😋',
+  message: Message {
+    conversation: 'Como te fue en el día?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Como te fue en el día?',
+  from: '59898613589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59898613589@s.whatsapp.net',
+    fromMe: false,
+    id: '8ED79DFAB9B1704FF6C1403ADC7FF671',
+    participant: undefined
+  },
+  messageTimestamp: 1685725862,
+  pushName: 'kari 😋',
+  message: Message {
+    conversation: 'Me alegro mucho, yo estuve trabajando',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me alegro mucho, yo estuve trabajando',
+  from: '59898613589'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '59898613589@s.whatsapp.net',
+    fromMe: false,
+    id: '09CE66911CFD17640500F56AADBA2082',
+    participant: undefined
+  },
+  messageTimestamp: 1685725887,
+  pushName: 'kari 😋',
+  message: Message {
+    conversation: 'Que bueno se que las vas a lograr',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que bueno se que las vas a lograr',
+  from: '59898613589'
+}
